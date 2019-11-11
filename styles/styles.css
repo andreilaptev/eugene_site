@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #ece9e9;
+  height: 6em;
+}
+
+ul {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+li {
+  padding: 0 2em;
+  list-style: none;
+  margin-top: 2em;
+}
+
+.logo {
+  margin-right: 50em;
+  margin-left: 5em;
+}
+/*# sourceMappingURL=styles.css.map */
